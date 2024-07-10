@@ -24,13 +24,17 @@ header{
 
 .p_colonne_droite{
 
-    margin-top: 2%;
+    margin-top: 0%;
+    border-left: solid black;
 
- box-shadow:
+background-color: rgba(232, 236, 234, 0.542);;
+/* box-shadow:
     inset 0 0 3em rgba(202, 12, 240, 0.356),
-    0 0 2em rgb(242, 240, 240);
+    0 0 2em rgb(242, 240, 240);  */
+}
 
-background-color: rgba(226, 226, 245, 0.542);
+.col-gauche {
+    box-shadow: 12px 12px 2px 1px rgba(9, 55, 224, 0.2);
 }
 
 

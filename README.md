@@ -8,7 +8,7 @@ Depuis mon plus jeune âge, je suis passionnée par les nouvelles technologies, 
 
 Au fil du temps, j'ai ressenti une certaine lassitude dans mon domaine d'activité précédent, ce qui m'a poussée à concrétiser mon rêve de devenir développeuse web. Après avoir effectué des recherches sur les différentes possibilités pour y parvenir, j'ai décidé de m'engager dans la formation actuelle DWWM proposée par l'école ENI.
 
-Une fois cette formation terminée, mon objectif est de poursuivre mes études en alternance afin de devenir conceptrice développeuse d’application. Je suis convaincue que cette nouvelle orientation correspond à mes aspirations professionnelles et me permettra de m'épanouir dans un domaine qui me passionne.
+Une fois cette formation terminée, mon objectif est de poursuivre mes études en alternance afin de devenir conceptrice développeuse d’application. Je suis convaincue que cette nouvelle orientation correspond à mes aspirations professionnelles et me permettra de m'épanouir dans un domaine qui me passionne...
 
 
 
